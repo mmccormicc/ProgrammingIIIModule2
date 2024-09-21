@@ -1,0 +1,5 @@
+1. Loop 3 times
+  a. Take first string input
+  b. Take second string input
+  c. Concatenate strings
+  d. Print result
